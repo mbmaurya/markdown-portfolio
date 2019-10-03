@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![GitHub Cat](https://images.app.goo.gl/6E53LGWbvVeJTiLN6)
