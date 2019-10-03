@@ -6,7 +6,8 @@ layout: default
 
 <br>
 
-![GitHub Cat](https://images.app.goo.gl/6E53LGWbvVeJTiLN6)
+{% include 02-image.md %}
+
 <br>
 
 {% include 03-links.md %}
